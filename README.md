@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?w=1060&t=st=1690908405~exp=1690909005~hmac=b88397f2f54c807ffaf775a19a75b930c4755eb6d6fa499ce5cd7ee422cf7e82)]
+![MasterHead](https://img.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?w=1060&t=st=1690908405~exp=1690909005~hmac=b88397f2f54c807ffaf775a19a75b930c4755eb6d6fa499ce5cd7ee422cf7e82)
 <h1 align="center">Hi 👋, I'm Panchal Naresh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
