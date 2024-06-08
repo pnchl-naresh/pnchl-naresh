@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkdin.com/in/panchal-naresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin.com/in/panchal-naresh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkdin.com/in/panchal-naresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/panchal-naresh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflow.com/users/22321700/panchal-naresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/22321700/panchal-naresh" height="30" width="40" /></a>
 <a href="https://instagram.com/_panchal_naresh_46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_panchal_naresh_46" height="30" width="40" /></a>
 </p>
